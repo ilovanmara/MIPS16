@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Mar 12 18:54:27 2023
+# Process ID: 3112
+# Current directory: C:/Users/mara_/Desktop/ac/test_env
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17812 C:\Users\mara_\Desktop\ac\test_env\test_env.xpr
+# Log file: C:/Users/mara_/Desktop/ac/test_env/vivado.log
+# Journal file: C:/Users/mara_/Desktop/ac/test_env\vivado.jou
+# Running On: LAPTOP-ASSSQ5HL, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16861 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/mara_/Desktop/ac/test_env/test_env.xpr
+update_compile_order -fileset sources_1
